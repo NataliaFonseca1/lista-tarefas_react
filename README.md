@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="/public/demo (2).gif" frameborder="0" allowfullscreen></iframe>
+<img width="560" height="315" src="https://github.com/NataliaFonseca1/lista-tarefas_react/blob/main/public/demo%20(2).gif" frameborder="0" allowfullscreen></img>
 
 # Getting Started with Create React App
 
